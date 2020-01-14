@@ -1,18 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="945ff1ec-0bca-469a-bef9-e3bd3aa5979d" name="Default Changelist" comment="" />
+    <list default="true" id="945ff1ec-0bca-469a-bef9-e3bd3aa5979d" name="Default Changelist" comment="Eliminando una cita del state">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jcano.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WAvyyjEk5R3dOPBi0zgWJ0Wpqr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jcano\Desktop\reactdefinitivo\veterinariapacientes\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -36,8 +94,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578605471595</updated>
-      <workItem from="1578605473323" duration="244000" />
+      <workItem from="1578605473323" duration="997000" />
+      <workItem from="1578691041983" duration="5376000" />
+      <workItem from="1578924659691" duration="18609000" />
+      <workItem from="1579011094785" duration="3742000" />
     </task>
+    <task id="LOCAL-00001" summary="Eliminando una cita del state">
+      <created>1578955858101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578955858101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto terminado&#10;se procede al deploy de la aplicacion">
+      <created>1579016715592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579016715592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eliminando una cita del state" />
+    <MESSAGE value="Proyecto terminado&#10;se procede al deploy de la aplicacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto terminado&#10;se procede al deploy de la aplicacion" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578691141269">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578691141269" />
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1579016713693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579016713693" />
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1579017080043">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579017080043" />
+    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1579017080042">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579017080042" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1579017080042">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579017080042" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1579017080042">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579017080042" />
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579016723389">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579016723389" />
+    <state x="476" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579011354426">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1579011354426" />
+    <state x="607" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579016758620">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="607" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1579016758620" />
+    <state x="487" y="146" width="626" height="568" key="find.popup" timestamp="1578956001476">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="487" y="146" width="626" height="568" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1578956001476" />
   </component>
 </project>
