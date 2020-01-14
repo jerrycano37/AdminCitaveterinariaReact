@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="945ff1ec-0bca-469a-bef9-e3bd3aa5979d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1578605473323" duration="997000" />
       <workItem from="1578691041983" duration="5376000" />
       <workItem from="1578924659691" duration="18609000" />
-      <workItem from="1579011094785" duration="7211000" />
+      <workItem from="1579011094785" duration="7791000" />
     </task>
     <task id="LOCAL-00001" summary="Eliminando una cita del state">
       <created>1578955858101</created>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579017397459</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deploy de la aplicacion">
+      <created>1579020912399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579020912399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,41 +139,42 @@
     <MESSAGE value="Eliminando una cita del state" />
     <MESSAGE value="Proyecto terminado&#10;se procede al deploy de la aplicacion" />
     <MESSAGE value="Deploy de la aplicacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy de la aplicacion" />
+    <MESSAGE value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://nostalgic-wing-85058f.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://nostalgic-wing-85058f.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578691141269">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578691141269" />
-    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1579017396309">
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1579021384100">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579017396309" />
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1579020798854">
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579021384100" />
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1579020960542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579020798854" />
-    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1579020798853">
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579020960542" />
+    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1579020960542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579020798853" />
-    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1579020798853">
+    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579020960542" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1579020960542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579020798853" />
-    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1579020798854">
+    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579020960542" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1579020960542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579020798854" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579020960542" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1579018065355">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579018065355" />
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579017404842">
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579021186650">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579017404842" />
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579021186650" />
     <state x="476" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579011354426">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
