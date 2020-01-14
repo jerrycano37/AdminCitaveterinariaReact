@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="945ff1ec-0bca-469a-bef9-e3bd3aa5979d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jcano.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jcano.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -100,7 +99,7 @@
       <workItem from="1578605473323" duration="997000" />
       <workItem from="1578691041983" duration="5376000" />
       <workItem from="1578924659691" duration="18609000" />
-      <workItem from="1579011094785" duration="7963000" />
+      <workItem from="1579011094785" duration="8061000" />
     </task>
     <task id="LOCAL-00001" summary="Eliminando una cita del state">
       <created>1578955858101</created>
@@ -137,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579021384908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://adminveterinariareact.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/">
+      <created>1579021578697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021578697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +154,18 @@
     <MESSAGE value="Proyecto terminado&#10;se procede al deploy de la aplicacion" />
     <MESSAGE value="Deploy de la aplicacion" />
     <MESSAGE value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://nostalgic-wing-85058f.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://nostalgic-wing-85058f.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
+    <MESSAGE value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://adminveterinariareact.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://adminveterinariareact.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578691141269">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578691141269" />
-    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1579021384100">
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1579021577827">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579021384100" />
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579021577827" />
     <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1579020960542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -179,10 +186,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579018065355" />
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579021423314">
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579021580630">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579021423314" />
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579021580630" />
     <state x="476" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579011354426">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
