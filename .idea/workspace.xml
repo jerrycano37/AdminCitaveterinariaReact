@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="945ff1ec-0bca-469a-bef9-e3bd3aa5979d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jcano.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jcano.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -99,7 +100,7 @@
       <workItem from="1578605473323" duration="997000" />
       <workItem from="1578691041983" duration="5376000" />
       <workItem from="1578924659691" duration="18609000" />
-      <workItem from="1579011094785" duration="7791000" />
+      <workItem from="1579011094785" duration="7963000" />
     </task>
     <task id="LOCAL-00001" summary="Eliminando una cita del state">
       <created>1578955858101</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579020912399</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aplicacion deploy funcionando&#10;&#10;DEMOS&#10;https://nostalgic-wing-85058f.netlify.com/&#10;https://adminveterinariareact.herokuapp.com/">
+      <created>1579021384908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021384908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,10 +179,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579018065355" />
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579021186650">
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579021423314">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579021186650" />
+    <state x="392" y="160" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579021423314" />
     <state x="476" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579011354426">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -187,5 +195,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="487" y="146" width="626" height="568" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1578956001476" />
+    <state x="545" y="210" key="git4idea.merge.GitMergeDialog" timestamp="1579021444908">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="545" y="210" key="git4idea.merge.GitMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1579021444908" />
   </component>
 </project>
